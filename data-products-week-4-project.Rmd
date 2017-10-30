@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Application
 
- - The second half of the mentioned assignment was to develop a web application. The application was named ***MPG Prediction***. An instance is up & running at <https://github.com/zeezzu/Developing-Data-Product---Week-4-Assignment/>.
+ - The second half of the mentioned assignment was to develop a web application. The application was named ***MPG Prediction***. An instance is up & running at <https://github.com/zeezzu/Course-Project-Shiny-Application-and-Reproducible-Pitch>.
  
 
  - This application shows an example of making a web application using R and [Shiny](https://shiny.rstudio.com) framework together.
