@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509328781437.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3861734395",
+    "id" : "37EDF89B",
+    "lastKnownWriteTime" : 1509327681,
+    "last_content_update" : 1509327681,
+    "path" : "~/Documents/R Studio/Course Project: Shiny Application and Reproducible Pitch/source/server.R",
+    "project_path" : "source/server.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

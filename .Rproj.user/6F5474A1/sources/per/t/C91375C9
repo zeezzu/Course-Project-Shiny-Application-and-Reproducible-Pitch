@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509328777392.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1682962363",
+    "id" : "C91375C9",
+    "lastKnownWriteTime" : 1509328496,
+    "last_content_update" : 1509328496,
+    "path" : "~/Documents/R Studio/Course Project: Shiny Application and Reproducible Pitch/data-products-week-4-project.Rmd",
+    "project_path" : "data-products-week-4-project.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
