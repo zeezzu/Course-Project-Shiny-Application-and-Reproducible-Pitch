@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
  
  - In the application, a prediction model is generated, based on a car parameters dataset (HP, weight, gears, etc.). Then, a user can play freely with the UI values in order to simulate the parameters of an hypothetical car and be able to predict its MPG consumption.
  
- - The application and the current presentation source codes can be found at <https://github.com/zeezzu/Developing-Data-Product---Week-4-Assignment>. The application comprises 3 files: *ui.R* (UI), *server.R* (backend) and *modelBuilding.R* (Random Forest predictor).
+ - The application and the current presentation source codes can be found at <https://github.com/zeezzu/Course-Project-Shiny-Application-and-Reproducible-Pitch>. The application comprises 3 files: *ui.R* (UI), *server.R* (backend) and *modelBuilding.R* (Random Forest predictor).
   
 ## Dataset
 
