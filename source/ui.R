@@ -163,8 +163,8 @@ shinyUI(
       ),
       
       p("Source code of this application is available at",
-        a(href = "https://github.com/laplata2003/data-products-week-4-project",
-          "https://github.com/laplata2003/data-products-week-4-project")
+        a(href = "https://github.com/zeezzu/Course-Project-Shiny-Application-and-Reproducible-Pitch",
+          "https://github.com/zeezzu/Course-Project-Shiny-Application-and-Reproducible-Pitch")
       )
       
     )

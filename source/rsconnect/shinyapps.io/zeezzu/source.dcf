@@ -1,0 +1,12 @@
+name: source
+title: source
+username:
+account: zeezzu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 230455
+bundleId: 1051233
+url: https://zeezzu.shinyapps.io/source/
+when: 1509334263.74096
+asMultiple: FALSE
+asStatic: FALSE
