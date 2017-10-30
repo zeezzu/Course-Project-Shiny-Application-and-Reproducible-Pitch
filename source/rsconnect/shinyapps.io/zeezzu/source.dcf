@@ -5,8 +5,8 @@ account: zeezzu
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 230455
-bundleId: 1051233
+bundleId: 1051237
 url: https://zeezzu.shinyapps.io/source/
-when: 1509334263.74096
+when: 1509334568.85901
 asMultiple: FALSE
 asStatic: FALSE
